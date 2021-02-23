@@ -1,0 +1,25 @@
+{
+  "name": "rejectpacker",
+  "version": "1.0.0",
+  "description": "The reject packer is a system to put all off your js files is only 1 file",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rejectjs/rejectPacker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rejectjs/rejectPacker/issues"
+  },
+  "homepage": "https://github.com/rejectjs/rejectPacker#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
